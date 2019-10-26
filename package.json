@@ -1,0 +1,63 @@
+{
+  "_from": "git+https://github.com/thanhzusu/react-native-parallax-scroll-view.git",
+  "_id": "react-native-parallax-scroll-view@0.20.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-parallax-scroll-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-parallax-scroll-view@git+https://github.com/thanhzusu/react-native-parallax-scroll-view.git",
+    "name": "react-native-parallax-scroll-view",
+    "escapedName": "react-native-parallax-scroll-view",
+    "rawSpec": "git+https://github.com/thanhzusu/react-native-parallax-scroll-view.git",
+    "saveSpec": "git+https://github.com/thanhzusu/react-native-parallax-scroll-view.git",
+    "fetchSpec": "https://github.com/thanhzusu/react-native-parallax-scroll-view.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/thanhzusu/react-native-parallax-scroll-view.git#5feef5985d34885ff7b2e64c5857921c0a77b727",
+  "_spec": "react-native-parallax-scroll-view@git+https://github.com/thanhzusu/react-native-parallax-scroll-view.git",
+  "_where": "/Users/hoaphan/Documents/banvien/3KM/mobile-app",
+  "author": {
+    "name": "Jack Hsu"
+  },
+  "bugs": {
+    "url": "https://github.com/jaysoo/react-native-parallax-scroll-view/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "deprecated": false,
+  "description": "A ScrollView-like component with parallax and sticky header support",
+  "files": [
+    "src",
+    "demo.ios.gif",
+    "demo.android.20160117.gif",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/jaysoo/react-native-parallax-scroll-view#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "parallax",
+    "scrollable",
+    "scrollview",
+    "sticky",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "react-native-parallax-scroll-view",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysoo/react-native-parallax-scroll-view.git"
+  },
+  "version": "0.20.1"
+}
